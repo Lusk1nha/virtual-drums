@@ -7,5 +7,5 @@ In this project I used HTML5, CSS3 and JavaScript
 
 ## Result
 
-> ### See and interact with the application [here](https://pokemon-pokedex.lusk1nha.vercel.app/) 
+> ### See and interact with the application [here](https://virtual-drums.lusk1nha.vercel.app/) 
 [![codepen.io](./public/assets/virtual-drum-img-github.png)](https://virtual-drums.lusk1nha.vercel.app/)
